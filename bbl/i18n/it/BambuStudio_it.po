@@ -9440,21 +9440,21 @@ msgid ""
 "normal(manual) or tree(manual) is selected, only support enforcers are "
 "generated"
 msgstr ""
-"normale(auto) e albero(auto) sono usati per generare automaticamente i "
-"supporti. Se si seleziona normale(manuale) o albero(manuale), vengono "
+"Normale(auto) e albero(auto) sono usati per generare automaticamente i "
+"supporti. Se si seleziona Normale(manuale) o Albero(manuale), vengono "
 "generati solo gli esecutori del supporto."
 
 msgid "normal(auto)"
-msgstr "normale(auto)"
+msgstr "Normale(auto)"
 
 msgid "tree(auto)"
-msgstr "albero(auto)"
+msgstr "Albero(auto)"
 
 msgid "normal(manual)"
-msgstr "normale(manuale)"
+msgstr "Normale(manuale)"
 
 msgid "tree(manual)"
-msgstr "albero(manuale)"
+msgstr "Albero(manuale)"
 
 msgid "Support/object xy distance"
 msgstr "Distanza xy supporto/oggetto"
@@ -9515,11 +9515,13 @@ msgstr ""
 "utilizzato il filamento corrente"
 
 msgid "Avoid interface filament for base"
-msgstr ""
+msgstr "Evita il filamento di interfaccia per la base"
 
 msgid ""
 "Avoid using support interface filament to print support base if possible."
 msgstr ""
+Se possibile, evitare di utilizzare il filamento dell'interfaccia di "
+"supporto per stampare la base dello stesso."
 
 msgid "Line width of support"
 msgstr "Larghezza linea di supporto"
@@ -9554,10 +9556,10 @@ msgid "Bottom interface layers"
 msgstr "Layer inferiori di interfaccia "
 
 msgid "Number of bottom interface layers"
-msgstr ""
+msgstr "Numero di layer dell'interfaccia inferiore"
 
 msgid "Same as top"
-msgstr ""
+msgstr "Come la parte superiore"
 
 msgid "Top interface spacing"
 msgstr "Spaziatura interfaccia superiore"
